@@ -1,3 +1,3 @@
 # Flask-REST
 
-CRUD Flask's service sample
+CRUD Flask's service starter
